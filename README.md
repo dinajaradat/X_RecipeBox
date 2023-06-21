@@ -1,3 +1,16 @@
+# Project: snack_CRUD_project
+# Author: dina jaradat
+
+# Initialize the app
+## cd into project directory
+## Write python manage.py runserver in terminal to run the project
+
+          python manage.py runserver
+          http://127.0.0.1:8000/recipe/
+
+
+
+
 > A batteries-included Django starter project. To learn more try the books [Django for Beginners](https://djangoforbeginners.com), [Django for APIs](https://djangoforapis.com), and [Django for Professionals](https://djangoforprofessionals.com).
 
 
